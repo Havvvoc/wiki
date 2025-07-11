@@ -63,7 +63,9 @@
 * **`/tpa <name>`** **`/tpahere <name>`** Request to teleport to a player, or request that they teleport to you
 * **`/tptoggle`** Toggle whether or not you can receive teleport requests
 * **`/warps`** Open the [community made waypoints](../survival/tweak-list/community-waypoints.md) menu
-* **`/warp <name>`** **`/warp resource`** _for the_ [_resource world_](../survival/resource-world.md) **`/warp market`** _for a random of the_ [_market_](../survival/market.md) _warps._ Teleport to a [community waypoint ](../survival/tweak-list/community-waypoints.md)without using the menu
+* **`/warp <name>`**
+* **`/warp resource`**, **`/resourceworld`**, or **`/rw`** _for the_ [_resource world_](../survival/resource-world.md)
+* **`/warp market`** _for a random of the_ [_market_](../survival/market.md) _warps._ Teleport to a [community waypoint ](../survival/tweak-list/community-waypoints.md)without using the menu
 * **`/setwarp <name>`** Set a new [community waypoint](../survival/tweak-list/community-waypoints.md) at your location
 * **`/delwarp <name>`** Delete one of your [community waypoints\
   ](../survival/tweak-list/community-waypoints.md)
